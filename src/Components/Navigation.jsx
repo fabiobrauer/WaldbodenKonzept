@@ -8,7 +8,7 @@ const NavigationBar = () => {
         <nav>
 
             <ul>
-                <li><img src={"public/LogoGreen.svg"} alt="Logo" /></li>
+                <li><img src={"LogoGreen.svg"} alt="Logo" /></li>
                 <li>
                     <li><Link to="/">Homepage</Link></li>
                     <li><Link to="/AgroforstWirtschaft">AgroforstWirtschaft</Link></li>

@@ -8,7 +8,7 @@
 
 
 .header-background {
-    background-image: url('hintergrund1.png'); /* Pfad zu Ihrem Hintergrundbild */
+    background-image: url('../../public/hintergrund1.png'); /* Pfad zu Ihrem Hintergrundbild */
     background-size: cover;
     background-position: center;
     text-align: center;
