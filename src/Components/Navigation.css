@@ -1,0 +1,64 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+/* Navigation Bar Styles */
+nav {
+    background-color: rgba(186, 148, 72, 0.17); /* Dark background */
+    overflow: hidden;
+    font-family: Arial, sans-serif;
+    padding-right: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav ul li {
+    display: inline; /* Inline display for horizontal layout */
+    margin-right: 20px; /* Spacing between items */
+}
+
+nav ul li:last-child {
+    margin-right: 0; /* Remove margin for the last item */
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(0, 0, 0); /* Light text color for contrast */
+    font-size: 18px;
+    padding: 14px 16px; /* Padding for clickable area */
+    display: inline-block;
+}
+
+nav ul li a:hover {
+    background-color: #868686c7; /* Change background on hover */
+    color: rgb(254, 254, 254); /* Change text color on hover */
+}
+
+nav ul li img {
+    height: 150px; /* adjust the size as needed */
+    margin-right: 50px; /* add some space between logo and menu items */
+    vertical-align: middle; /* to align it with menu items */
+
+}
+
+/* Responsive design for smaller screens */
+@media screen and (max-width: 600px) {
+    nav ul li {
+        display: block; /* Stack items vertically on small screens */
+        text-align: left;
+        margin-right: 0;
+    }
+    nav ul {
+        flex-direction: column;
+    }
+}
