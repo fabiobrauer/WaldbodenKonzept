@@ -3,23 +3,22 @@ import './Kontakt.css'
 
 function Kontakt() {
   return (
-    <>        
+    <>
+      <h1>Kontaktieren sie mich</h1>       
       <div class="contact-form">
-          <h1>Contact Us</h1>
-          <form name="contact" data-netlify="true" netlify>
-              <div class="form-group">
-                  <label for="name">Name:</label>
-                  <input type="text" id="name" name="name" required></input>
-              </div>
-              <div class="form-group">
-                  <label for="email">Email:</label>
-                  <input type="email" id="email" name="email" required></input>
-              </div>
-              <div class="form-group">
-                  <label for="message">Message:</label>
-                  <textarea id="message" name="message" required></textarea>
-              </div>
-              <button type="submit">Send Message</button>
+          <form name="contact" netlify>
+            <p class="form-group">
+              <label>Name <input type="text" name="name" /></label>
+            </p>
+            <p class="form-group">
+              <label>Email <input type="email" name="email" /></label>
+            </p>
+            <p class="form-group">
+              <label>Message: <textarea type="message" name="message" /></label>
+            </p>
+            <p >
+              <button type="submit">Send</button>
+            </p>
           </form>
       </div>
     </>
