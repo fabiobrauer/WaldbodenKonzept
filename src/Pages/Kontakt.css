@@ -1,5 +1,5 @@
 /* Contact Form Styling */
-.contact-form {
+form {
     background-color: #f0f0f0; /* Light grey background */
     border-radius: 8px;
     padding: 20px;
@@ -8,7 +8,7 @@
     font-family: 'Arial', sans-serif;
 }
 
-.contact-form h1 {
+h1 {
     color: #333;
     margin-bottom: 16px;
 }
@@ -17,14 +17,14 @@
     margin-bottom: 15px;
 }
 
-.contact-form label {
+form label {
     display: block;
     margin-bottom: 5px;
 }
 
-.contact-form input[type="text"],
-.contact-form input[type="email"],
-.contact-form textarea {
+form input[type="text"],
+form input[type="email"],
+form textarea {
     width: 100%;
     padding: 8px;
     border: 1px solid #ddd;
@@ -33,11 +33,11 @@
     margin-bottom: 10px;
 }
 
-.contact-form textarea {
+form textarea {
     height: 100px; /* Adjust as needed */
 }
 
-.contact-form button {
+form button {
     background-color: #4CAF50; /* Green background */
     color: white;
     padding: 10px 20px;
@@ -47,7 +47,7 @@
     font-size: 1em;
 }
 
-.contact-form button:hover {
+form button:hover {
     background-color: #45a049;
 }
 
