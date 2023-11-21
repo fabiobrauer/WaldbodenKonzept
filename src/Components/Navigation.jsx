@@ -13,7 +13,7 @@ const NavigationBar = () => {
                     <li><Link to="/">Homepage</Link></li>
                     <li><Link to="/AgroforstWirtschaft">AgroforstWirtschaft</Link></li>
                     <li><Link to="/Aktuelles">Aktuelles</Link></li>
-                    <li><Link to="/Bodenaufbau">Bodenaufbau</Link></li>
+                    <li><Link to="/GartenDesign">GartenDesign</Link></li>
                     <li><Link to="/HolzschePermakultur">HolzschePermakultur</Link></li>
                     <li><Link to="/Kontakt">Kontakt</Link></li>
                 </li>

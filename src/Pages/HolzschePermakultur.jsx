@@ -1,8 +1,9 @@
 import React from 'react'
+import './HolzschePermakultur.css'
 
 function HolzschePermakultur() {
   return (
-    <div>
+    <div className='HolzschePermakultur'>
         <h1>Permakultur nach Sepp Holzer</h1>
 <p>
   Die Holzer‘sche Permakultur beruht auf jahrzehntelanger Erfahrung und Praxis des „Agrar-Rebells“ Sepp Holzer und seiner Familie.
