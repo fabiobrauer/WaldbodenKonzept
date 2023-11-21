@@ -6,7 +6,7 @@ function Kontakt() {
     <>        
       <div class="contact-form">
           <h1>Contact Us</h1>
-          <form name="contact" method="post" data-netlify="true" netlify>
+          <form name="contact" data-netlify="true" netlify>
               <div class="form-group">
                   <label for="name">Name:</label>
                   <input type="text" id="name" name="name" required></input>
