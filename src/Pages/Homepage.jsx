@@ -15,7 +15,7 @@ function Homepage() {
     <section>
         <h2>Angebote</h2>
 
-        <h3>Agroforstwirtschaft</h3>
+        <h3>Garten-Design</h3>
         <p>Beratung bei Planung, Anlage und Umsetzung ökologisch gestalteter Gärten, Selbstversorgergärten und Solawis nach den Kriterien der Permakultur nach Sepp Holzer.</p>
 
         <h3>Holzer’sche Permakultur</h3>
@@ -23,6 +23,36 @@ function Homepage() {
 
         <h3>Bodenaufbau durch RCW</h3>
         <p>Darunter versteht man die Einbringung von Häckseln oder Chips aus frischem Zweigholz (englisch RCW für Ramial Chipped Wood). Diese Methode hat einen außerordentlich positiven Effekt auf die Wasserhaltekapazität und die Gefügestabilität des Bodens.</p>
+    </section>
+    <section>
+    <h1>Garten Design & Permakultur</h1>
+            <p>
+                Ob Hausgarten zur Selbstversorgung, Pilzzucht-Projekt oder nachhaltig gestaltetes Firmengelände, 
+                ich helfe Ihnen bei der Umsetzung Ihrer Garten-Träume. Dabei arbeite ich nach den Grundsätzen der  
+                <strong> Holzer’schen Permakultur.</strong>
+            </p>
+            <p>
+            Ein so gestalteter Garten zeichnet sich durch Kleinklima-Zonen aus, die jeweils unterschiedliche Funktionen erfüllen können und Lebensraum für verschiedene Pflanzen und Tiere bieten.
+            </p>
+            <p>
+            Die vielfältigen Lebewesen bilden mit der Zeit ein vitales, produktives Ökosystem, welches sich immer weiterentwickelt und sich bei äußerlichen Veränderungen selbst wieder ins Gleichgewicht bringen kann.
+            </p>
+            <p>Ein Permakultur-Garten ist ein Ort voller Leben und Vielfalt, der Sie mit der Natur verbindet und Ihnen neue Erfahrungen und Perspektiven vermitteln kann.
+            </p>
+            <h2>
+                Mein Angebot umfasst
+            </h2>
+            <ul>
+                <li>komplette Planung für bestehende oder neu anzulegende Gärten nach Ihren Wünschen</li>
+                <li>Auswahl standortangepasster und ökologisch sinnvoller Pflanzen</li>
+                <li>Planung und praktische Anleitung bei der Umsetzung Ihrer Garten-Projekte</li>
+                <li>auf Wunsch Begleitung bei der Weiterentwicklung und Pflege</li>
+                <li>Erstellung von Fruchtfolgen und Sortenauswahl</li>
+                <li>Anleitung zur Bodenverbesserung und bei Pflanzen-Vermehrung und Anzucht</li>
+                <li>Förderung der Biodiversität durch Schaffung von Habitaten und Nahrungsangeboten</li>
+                <li>Kurse zu Themen wie Pflanzenvermehrung und Bodenaufbau (Termine siehe Aktuelles)</li>
+
+            </ul>
     </section>
 
     <blockquote>
