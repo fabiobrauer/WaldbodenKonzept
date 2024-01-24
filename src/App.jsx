@@ -8,6 +8,7 @@ import HolzschePermakultur from './Pages/HolzschePermakultur'
 import Kontakt from './Pages/Kontakt'
 import NavigationBar from './Components/Navigation'
 import Footer from './Components/Footer'
+import PermakulterWorkshopchiangdao from './Pages/PermakulterWorkshopchangdao'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
         <Route path='/GartenDesign' element={<GartenDesign></GartenDesign>}></Route>
         <Route path='/HolzschePermakultur' element={<HolzschePermakultur></HolzschePermakultur>}></Route>
         <Route path='/Kontakt' element={<Kontakt></Kontakt>}></Route>
+        <Route path='/PermakulterWorkshopchangdao' element={<PermakulterWorkshopchiangdao></PermakulterWorkshopchiangdao>}></Route>
       </Routes>
       <Footer></Footer>
     </>
