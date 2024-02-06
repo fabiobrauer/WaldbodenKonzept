@@ -16,6 +16,7 @@ const NavigationBar = () => {
                     <li><Link to="/GartenDesign">Garten-Design</Link></li>
                     <li><Link to="/HolzschePermakultur">Holz'sche Permakultur</Link></li>
                     <li><Link to="/Kontakt">Kontakt</Link></li>
+                    <li><Link to="/PermakulturWorkshopchangdao">Permakultur Workshop Chiang Dao</Link></li>
                 </li>
             </ul>
         </nav>
