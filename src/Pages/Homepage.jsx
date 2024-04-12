@@ -34,7 +34,7 @@ function Homepage() {
 
                         <div className="row section">                
                             <div className="col-xs-12 col-md-6">                
-                                 <h1>Garten Design & Permakultur</h1>
+                                 <h2 className='mb-5'>Garten Design & Permakultur</h2>
                                     <p>
                                         Ob Hausgarten zur Selbstversorgung, Pilzzucht-Projekt oder nachhaltig gestaltetes Firmengelände, 
                                         ich helfe Ihnen bei der Umsetzung Ihrer Garten-Träume. Dabei arbeite ich nach den Grundsätzen der  
@@ -50,9 +50,7 @@ function Homepage() {
                                     </p>
                                     </div>
                                     <div className="col-xs-12 col-md-6">                                    
-                                        <h2>
-                                            Mein Angebot umfasst
-                                        </h2>
+                                        <h2 className='mb-5'>Mein Angebot umfasst</h2>
                                         <ul>
                                             <li>komplette Planung für bestehende oder neu anzulegende Gärten nach Ihren Wünschen</li>
                                             <li>Auswahl standortangepasster und ökologisch sinnvoller Pflanzen</li>
