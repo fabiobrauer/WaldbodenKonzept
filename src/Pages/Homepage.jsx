@@ -21,13 +21,13 @@ function Homepage() {
                         <p>Beratung bei Planung, Anlage und Umsetzung ökologisch gestalteter Gärten, Selbstversorgergärten und Solawis nach den Kriterien der Permakultur nach Sepp Holzer.</p>
 
                         <h3>Holzer’sche Permakultur</h3>
-                        <p>Die Holzer’sche Permakultur beinhaltet Landschaftsgestaltung (Terrassenbau, Humusrückhaltebecken), Trocken- und Feuchtbiotope, Tierhaltung, Obst-, Heilkräuter- und Gemüseanbau, Pilzzucht, Wasserkreisläufe und Agroforstwirtschaft.</p>
+                        <p class="text-break">Die Holzer’sche Permakultur beinhaltet Landschaftsgestaltung (Terrassenbau, Humusrückhaltebecken), Trocken-und Feuchtbiotope, Tierhaltung, Obst, Heilkräuter-und Gemüseanbau, Pilzzucht, Wasserkreisläufe und Agroforstwirtschaft.</p>
 
                         <h3>Bodenaufbau durch RCW</h3>
                         <p>Darunter versteht man die Einbringung von Häckseln oder Chips aus frischem Zweigholz (englisch RCW für Ramial Chipped Wood). Diese Methode hat einen außerordentlich positiven Effekt auf die Wasserhaltekapazität und die Gefügestabilität des Bodens.</p>
                     </div>   
                     <div className="col-xs-12 col-md-6">
-                                <img src="bodenaufbau.jpg" alt="agroforst" width={"400px"}/>
+                                <img src="bodenaufbau.jpg" alt="agroforst" width={"350px"}/>
                     </div>    
                     
                 </div>
