@@ -66,8 +66,9 @@ Besonders für Kinder kann solches Naturerleben einen sehr positiven Effekt auf 
 
         </div>
         <div className='GartenDesign'>
-        <p>Sie bekommen von mir Vorschläge zur Gestaltung Ihres naturnahen Wunschgartens.</p>
 
+        <img src="/Gartendesign.jpeg" alt="gartendesign" />
+        <p>Sie bekommen von mir Vorschläge zur Gestaltung Ihres naturnahen Wunschgartens.</p>
         <h2>Große Gartenberatung: 150 €</h2>
         <p>Wir begehen gemeinsam Ihren Garten und Sie erzählen mir Ihre Wünsche. Wir besprechen gemeinsam, wie man Ihre Vorstellungen unter den gegebenen Umständen umsetzen könnte. Sie erhalten innerhalb von 10 Tagen einen detaillierten Plan für Ihr Vorhaben.</p>
 

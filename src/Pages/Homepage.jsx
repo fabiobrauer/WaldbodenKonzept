@@ -54,7 +54,15 @@ function Homepage() {
 
             </ul>
     </section>
-
+    <section>
+        <div className='container'>
+            <div className='row'>  
+                <div className="col">
+                    <img src="bodenaufbau.jpg" alt="agroforst" width={"500px"}/>
+                </div>
+            </div>      
+        </div>
+    </section>
     <blockquote>
         <p>„Alles, was gegen die Natur ist, hat auf Dauer keinen Bestand.“ - Charles Darwin</p>
     </blockquote>
