@@ -7,11 +7,11 @@ function Kontakt() {
         <section>
         <div className='container'>
             <div className='row'>  
-                <div className="col">
+                <div className="col mt-2">
                     <img src="PHOTO-2022-06-08-17-59-56.JPG" alt="agroforst" width={"500px"}/>
                 </div>
                 <div className="col">
-                  <h1>Schreiben sie mich gerne an</h1>
+                  <h1 className='mt-5'>Wenn sie Fragen haben, stehe ich ihnen gerne zur Verfügung</h1>
                 </div>
             </div>      
         </div>
