@@ -26,8 +26,8 @@ function Homepage() {
                         <h3>Bodenaufbau durch RCW</h3>
                         <p>Darunter versteht man die Einbringung von Häckseln oder Chips aus frischem Zweigholz (englisch RCW für Ramial Chipped Wood). Diese Methode hat einen außerordentlich positiven Effekt auf die Wasserhaltekapazität und die Gefügestabilität des Bodens.</p>
                     </div>   
-                    <div className="col-xs-12 col-md-6">
-                                <img src="bodenaufbau.jpg" alt="agroforst" width={"350px"}/>
+                    <div className="col-xs-12 col-md-6 d-flex align-items-center">
+                                <img src="bodenaufbau.jpg" alt="agroforst" width={"350px"} className=''/>
                     </div>    
                     
                 </div>
@@ -87,7 +87,7 @@ function Homepage() {
                             <li>Mitgliedschaft und ehrenamtliche Arbeit im Deutschen Fachverband für Agroforstwirtschaft</li>
                             <li>Langjährige Erfahrung in Selbstversorgerprojekten</li>
                             <li>Eigenes Forschungsprojekt im Bereich Bodenaufbau durch Ramialholz</li>
-                            <li>Praxisausbildung (andauernd) in Holzerscher Permakultur</li>
+                            <li>Praxisausbildung in Holzerscher Permakultur</li>
                         </ul>
                     </div>         
                 </div>

@@ -6,9 +6,9 @@ import './Navigation.css';
 const NavigationBar = () => {
     return (
         <nav>
-
+            
             <ul>
-                <li><Link to="/"><img src={"LogoGreen.svg"} alt="Logo" /></Link></li>
+                <li><Link to="/"><img src={"wald_boden_konzept_wort_bildmarke.jpg"} alt="Logo" className='logo'/></Link></li>
                 <li>
                     <li><Link to="/">Homepage</Link></li>
                     <li><Link to="/AgroforstWirtschaft">Agroforst Wirtschaft</Link></li>
@@ -20,6 +20,7 @@ const NavigationBar = () => {
                 </li>
             </ul>
         </nav>
+
     );
 };
 

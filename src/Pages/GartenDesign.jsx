@@ -6,7 +6,7 @@ function GartenDesign() {
     <div>
     <div className="container-fluid">
     <div className='GartenDesign row'>
-      <div className="col">
+      <div className="col p-1 p-xl-5">
                       <h1>Garten Design & Permakultur</h1>
                       <p>
                           Ob Hausgarten zur Selbstversorgung, Pilzzucht-Projekt oder nachhaltig gestaltetes Firmengelände, 
@@ -24,7 +24,7 @@ function GartenDesign() {
               </div>
             </div>
             <div className='GartenDesign row'>
-            <div className="col">
+            <div className="col p-1 p-xl-5">
                 <h2>
                     Mein Angebot umfasst
                 </h2>
@@ -42,7 +42,7 @@ function GartenDesign() {
               </div>
             </div>
             <div className='GartenDesign row'>
-              <div className="col">
+              <div className="col p-1 p-xl-5">
                           <h2>Selbstversorgung</h2>
                           <p>
                           Ein erfolgreicher Gemüseanbau setzt Wissen über Standort, Bodenqualitäten, Sorten, Setz- und Aussaattermine, Pflanzengemeinschaften und Fruchtfolgen voraus. All das zusammen zu bringen ist oft nicht ganz einfach. Hier stehe ich Ihnen mit meinem Fachwissen gern zur Seite und zeige Ihnen effiziente Arbeitsmethoden. Auch die Pflanzenvermehrung, also die Produktion von eigenem Saat- und Pflanzgut, ist wichtig zu lernen, wenn man nicht jedes Jahr alles neu kaufen will
@@ -74,8 +74,8 @@ function GartenDesign() {
 
         <div className='GartenDesign'>
           <div className="row">
-            <div className="col">
-              <p>Sie bekommen von mir Vorschläge zur Gestaltung Ihres naturnahen Wunschgartens.</p>
+            <div className="col p-1 p-xl-5">
+        <p>Sie bekommen von mir Vorschläge zur Gestaltung Ihres naturnahen Wunschgartens.</p>
         <h2>Große Gartenberatung: 150 €</h2>
         <p>Wir begehen gemeinsam Ihren Garten und Sie erzählen mir Ihre Wünsche. Wir besprechen gemeinsam, wie man Ihre Vorstellungen unter den gegebenen Umständen umsetzen könnte. Sie erhalten innerhalb von 10 Tagen einen detaillierten Plan für Ihr Vorhaben.</p>
 
@@ -90,7 +90,7 @@ function GartenDesign() {
         <h2>Planung für Firmengelände: ab 200 €, nach Aufwand</h2>
 
             </div>
-            <div className="col-xs-12 col-md-6">
+            <div className="col-xs-12 col-md-6 d-flex align-items-center">
                         <img src="/Gartendesign.jpeg" alt="agroforst" width={"500px"}/>
                     </div>
           </div>
